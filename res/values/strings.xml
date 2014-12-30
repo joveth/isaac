@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">以撒的结合图鉴</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="ic_setting">关于</string>
+	<string name="ic_search">搜索</string>
+	 <string name="setting_version">以撒的结合图鉴  1.0</string>
+    <string name="setting_contact">联系信息</string>
+    <string name="setting_author">作者：</string>
+    <string name="setting_author_name">joveth</string>
+    <string name="setting_qq">Q  Q：</string>
+    <string name="setting_qq_num">247911950</string>
+    <string name="setting_mail">邮箱：</string>
+    <string name="setting_mail_addr">funny_ba@163.com</string>
+    <string name="setting_weibo">微博：</string>
+    <string name="setting_weibo_addr">新浪http://weibo.com/u/2096710855</string>
+    <string name="setting_github">github：</string>
+    <string name="setting_github_addr">https://github.com/joveth</string>
+    <string name="setting_app_infor">软件声明</string>
+    <string name="setting_copyright">以撒的结合图鉴安卓版，主要根据贴吧吧友chinazhoumo君的网页版v3.2图鉴进行制作，由于本人是个手机党，所以很早就想做个安卓版了，总算是不负众望。</string>
+    <string name="setting_app_for">未来计划</string>
+    <string name="setting_for">下一版主要增加有一些剧情和其他杂七杂八的东西（套装、挑战等），敬请期待。</string>
+    <string name="setting_author_is">作者の梗</string>
+    <string name="setting_author_fuck">如果你想要和我合作不管是什么性质的，亲，联系我。如果你觉得软件做的不够好，那就邮件提意见，亲这个真的不收费，如果你觉得实在是不好用你可以来邮件骂我，若是你觉得这样骂不过瘾，你也可以跟我QQ语言当耳骂，若是你实在忍不住了，那，对不起，我不搞基好多年了。亲，一定要给我反馈意见哦。</string>
+    <string name="setting_suggest">意见反馈</string>
+    <string name="setting_send_suggest">发送反馈意见</string>
+    <string name="setting_hint">如果输入法弹出框遮盖了输入框，你可以向上拉一下哦</string>
+</resources>

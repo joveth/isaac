@@ -1,0 +1,20 @@
+<resources>
+
+    <!--
+        Base application theme for API 11+. This theme completely replaces
+        AppBaseTheme from res/values/styles.xml on API 11+ devices.
+    -->
+  <style name="Theme.Example" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarItemBackground">@drawable/selectable_background_example</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Example</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Example</item>
+        <item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Example</item>
+        <item name="android:actionDropDownStyle">@style/DropDownNav.Example</item>
+        <item name="android:actionBarStyle">@style/ActionBar.Solid.Example</item>
+        <item name="android:actionModeBackground">@drawable/cab_background_top_example</item>
+        <item name="android:actionModeSplitBackground">@drawable/cab_background_bottom_example</item>
+        <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Example</item>
+        
+    </style>
+
+</resources>

@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.jov.isaac.MainActivity" >
+
+    <item
+        android:id="@+id/menu_search"
+        android:actionViewClass="android.widget.SearchView"
+        android:showAsAction="ifRoom"
+        android:title="@string/ic_search"/>
+    <item
+        android:id="@+id/menu_setting"
+        android:icon="@drawable/icon_menu_set_n_1"
+        android:showAsAction="always"
+        android:title="@string/ic_setting"/>
+
+</menu>
